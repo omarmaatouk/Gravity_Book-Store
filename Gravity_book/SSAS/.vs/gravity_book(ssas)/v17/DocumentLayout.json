@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\power bi zaqaziq\\gravity book\\gravity_book(ssas)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138BCB5A-86E9-3AD0-E5F7-FA4002EFE007}|gravity_book(ssas)\\gravity_book(ssas).dwproj|D:\\power bi zaqaziq\\gravity book\\gravity_book(ssas)\\gravity_book(ssas)\\Grvitybook Dwh.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{138BCB5A-86E9-3AD0-E5F7-FA4002EFE007}|gravity_book(ssas)\\gravity_book(ssas).dwproj|solutionrelative:gravity_book(ssas)\\Grvitybook Dwh.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grvitybook Dwh.cube [Design]",
+              "DocumentMoniker": "D:\\power bi zaqaziq\\gravity book\\gravity_book(ssas)\\gravity_book(ssas)\\Grvitybook Dwh.cube",
+              "RelativeDocumentMoniker": "gravity_book(ssas)\\Grvitybook Dwh.cube",
+              "ToolTip": "D:\\power bi zaqaziq\\gravity book\\gravity_book(ssas)\\gravity_book(ssas)\\Grvitybook Dwh.cube [Design]",
+              "RelativeToolTip": "gravity_book(ssas)\\Grvitybook Dwh.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-23T17:52:23.671Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
